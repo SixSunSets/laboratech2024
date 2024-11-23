@@ -1,7 +1,0 @@
-V_NUMPERIOD,ID_EMPRESA,Departamento_ct,sector,ntrab_tc_indet,ntrab_tc_nattemp,ntrab_tc_natacc,ntrab_tc_obrserv,ntrab_tc_tiempar,ntrab_tc_otros,ntrab_tc_noprec,ntrab_rl_privgen,ntrab_rl_micro,ntrab_rl_peq,ntrab_rl_agrar,ntrab_rl_otros,ntrab_rl_noprec,ntrab_rp_spp,ntrab_rp_snp,ntrab_rp_otros,ntrab_rp_noprecrp,ntrab_afil_essalud,ntrab_afil_essalud_agrar,ntrab_afil_sis,ntrab_afil_noprec,ntrab_18mas,ntrab_menos18,ntrab_edad_noprec,ntrab_hombres,ntrab_mujeres,ntrab_sexo_noprec,ntrab_nosind,ntrab_sind,ntrab_consctr,ntrab_sinsctr,ntrab_sctr_noprec,numtra,costosal,sst,anio_anti,
-202402,AAAEYAZZWBV,15,1,29,11,0,2,0,1,0,43,0,0,0,0,0,27,8,5,3,43,0,0,0,42,0,1,27,15,1,39,4,9,34,0,43,191769.25999999998,1,8
-202403,AAAEYAZZWBV,15,1,29,11,0,2,0,1,0,43,0,0,0,0,0,27,8,5,3,43,0,0,0,42,0,1,27,15,1,39,4,9,34,0,43,193433.61000000002,1,8
-202401,AAAEYAZZWBV,15,1,46,12,0,27,0,1,0,86,0,0,0,0,0,45,9,29,3,86,0,0,0,85,0,1,70,15,1,61,25,33,53,0,86,310260.9100000001,1,8
-202406,AAAEYAZZWBV,15,1,47,12,0,35,0,1,0,95,0,0,0,0,0,48,8,36,3,95,0,0,0,94,0,1,79,15,1,69,26,35,60,0,95,312145.21000000014,1,8
-202404,AAAEYAZZWBV,15,1,47,12,0,34,0,1,0,94,0,0,0,0,0,47,9,35,3,94,0,0,0,93,0,1,78,15,1,68,26,35,59,0,94,477992.2599999998,1,8
-202405,AAAEYAZZWBV,15,1,47,12,0,36,0,1,0,96,0,0,0,0,0,49,8,36,3,96,0,0,0,95,0,1,80,15,1,70,26,35,61,0,96,944900.7599999998,1,8
