@@ -1,0 +1,15 @@
+{
+  "observaciones": [
+    "La mayoría de los trabajadores están contratados de manera indefinida (85%), lo cual sugiere estabilidad laboral.",
+    "El 90% de los trabajadores están bajo un régimen privado, mientras que las modalidades micro, pequeña y agrario representan menos del 9%.",
+    "El 95% de los trabajadores están afiliados a EsSalud, lo que indica un adecuado nivel de cobertura de salud.",
+    "El rango de edad está dominado por mayores de 18 años (94%).",
+    "La sindicalización es alta (97.5%), lo cual podría ser un indicador de buenas prácticas laborales o regulaciones estrictas."
+  ],
+  "alertas": [
+    "Solo 10 contratos temporales y 2 contratos no especificados podrían requerir revisión para asegurar cumplimiento de normativa.",
+    "Los menores de 18 años representan el 2.5% de la fuerza laboral; es necesario asegurar el cumplimiento de regulaciones especiales para este grupo.",
+    "Dos trabajadores sin SCTR podrían indicar incumplimiento de normativas de seguridad y salud ocupacional.",
+    "Los costos salariales promedio parecen elevados para un sector agrícola; se sugiere una revisión de la estructura salarial para identificar posibles optimizaciones."
+  ]
+}

@@ -1,0 +1,127 @@
+{
+    "Secciones": {
+        "A - Agricultura, Ganadería, Silvicultura y Pesca": {
+            "Divisiones": {
+                "01 - Agricultura, ganadería, caza y actividades de servicios conexas ": {
+                    "Grupos": {
+                        "011 - Cultivo de plantas no perennes": {
+                            "Clases": {
+                                "0111": "Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",
+                                "0112": "Cultivo de arroz",
+                                "0113": "Cultivo de hortalizas y melones, raíces y tubérculos",
+                                "0114": "Cultivo de caña de azúcar",
+                                "0115": "Cultivo de tabaco",
+                                "0116": "Cultivo de plantas de fibra",
+                                "0119": "Cultivo de otras plantas no perennes"
+                            },
+                            "desc": "Este grupo abarca el cultivo de plantas no perennes, es decir, de plantas que no duran más de dos temporadas. Se incluye el cultivo de esas plantas con fines de producción de semillas."
+                        },
+                        "012 - Cultivo de plantas perennes": {
+                            "Clases": {
+                                "0121": "Cultivo de uva",
+                                "0122": "Cultivo de frutas tropicales y subtropicales",
+                                "0123": "Cultivo de cítricos",
+                                "0124": "Cultivo de frutas de pepita y de hueso",
+                                "0125": "Cultivo de otros frutos y nueces de árboles y arbustos",
+                                "0126": "Cultivo de frutos oleaginosos",
+                                "0127": "Cultivo de plantas con las que se preparan bebidas",
+                                "0128": "Cultivo de especias y de plantas aromáticas, medicinales y farmacéuticas",
+                                "0129": "Cultivo de otras plantas perennes"
+                            },
+                            "desc": "Este grupo comprende el cultivo de plantas perennes, es decir, plantas que duran más de dos temporadas, ya mueran y se reproduzcan después de cada temporada o se mantengan ininterrumpidamente. Se incluye el cultivo de esas plantas con fines de producción de semillas."
+                        },
+                        "013 - Propagación de plantas": {
+                            "Clases": {
+                                "0121": "Propagación de plantas"
+                            },
+                            "desc": "Esta clase comprende la producción de todo tipo de materiales vegetales para plantación, incluidos esquejes, chupones, y plantones para la propagación directa de plantas o para crear patrones o pies en los que hacer injertos para plantación posterior."
+                        },
+                        "014 - Ganadería": {
+                            "Clases": {
+                                "0141": "Cría de ganado bovino y búfalos",
+                                "0142": "Cría de caballos y otros equinos",
+                                "0143": "Cría de camellos y otros camélidos",
+                                "0144": "Cría de ovejas y cabras",
+                                "0145": "Cría de cerdos",
+                                "0146": "Cría de aves de corral",
+                                "0149": "Cría de otros animales"
+                            },
+                            "desc": "Este grupo comprende la cría y la reproducción de animales, excepto animales acuáticos."
+                        },
+                        "015 - Cultivo de productos agrícolas en combinación con la cría de animales (explotación mixta)": {
+                            "Clases": {
+                                "0150": "Cultivo de productos agrícolas en combinación con la cría de animales"
+                            },
+                            "desc": "Este grupo comprende la cría y la reproducción de animales, excepto animales acuáticos."
+                        },
+                        "016 - Actividades de apoyo a la agricultura y la ganadería y actividades poscosecha": {
+                            "Clases": {
+                                "0161": "Actividades de apoyo a la agricultura",
+                                "0162": "Actividades de apoyo a la ganadería",
+                                "0163": "Actividades poscosecha",
+                                "0164": "Tratamiento de semillas para propagación "
+                            },
+                            "desc": "Este grupo comprende actividades vinculadas a la producción agropecuaria y actividades similares a la agricultura o la ganadería no realizadas con fines de producción (es decir, para cosechar productos agrícolas), a cambio de una retribución o por contrata. También se incluyen actividades poscosecha tendientes a preparar los productos agrícolas para su comercialización en los mercados primarios. "
+                        },
+                        "017 - Caza ordinaria y mediante trampas y actividades de servicios conexas": {
+                            "Clases": {
+                                "0170": "Caza ordinaria y mediante trampas y actividades de servicios conexas"
+                            },
+                            "desc": "Esta clase comprende las siguientes actividades: caza ordinaria y mediante trampas con fines comerciales, captura de animales (vivos o muertos) para alimento, por sus pieles y cueros o para utilizarlos en actividades de investigación, en zoológicos o como animales domésticos"
+                        }
+                    },
+                    "desc": "Esta grupo comprende la explotación mixta de cultivos y animales sin especialización en ninguna de las actividades. El tamaño del conjunto de la explotación agrícola no es un factor determinante."
+                },
+                "02 - Silvicultura y extracción de madera": {
+                    "Grupos": {
+                        "021 - Silvicultura y otras actividades forestales": {
+                            "Clases": {
+                                "0210": "Silvicultura y otras actividades forestales"
+                            },
+                            "desc": "Esta clase comprende las siguientes actividades: explotación de madera en pie: plantación, replante, trasplante, aclareo y conservación de bosques y zonas forestadas, cultivo de monte bajo y de madera para pasta y para leña, explotación de viveros forestales, estas actividades pueden realizarse en bosques naturales o en plantaciones forestales."
+                        },
+                        "022 - Extracción de madera": {
+                            "Clases": {
+                                "0220": "Extracción de madera"
+                            },
+                            "desc": "Esta división comprende las siguientes actividades: Producción de madera en rollos para industrias manufactureras que utilizan productos forestales; Producción de madera en rollos para su utilización en bruto, como entibos, estacas y postes; Recolección y producción de leña; Producción de carbón vegetal en bosques (utilizando métodos tradicionales). El producto de esta actividad puede consistir en troncos, astillas de madera o leña."
+                        },
+                        "023 -  Recolección de productos forestales distintos de la madera": {
+                            "Clases": {
+                                "0220": "Recolección de productos forestales distintos de la madera"
+                            },
+                            "desc": "Esta división comprende la recolección de productos forestales distintos de la madera y otras plantas silvestres. Se incluye la recolección de materiales silvestres: setas, trufas; bayas; nueces; balata y otras gomas similares al caucho; corcho; goma laca y resinas; bálsamos; crin vegetal; crin marina (zostera); bellotas y castañas de Indias; musgos y líquenes."
+                        },
+                        "024 -  Servicios de apoyo a la silvicultura": {
+                            "Clases": {
+                                "0240": "Servicios de apoyo a la silvicultura"
+                            },
+                            "desc": "Esta clase comprende la realización de parte de las actividades de explotación forestal a cambio de una retribución o por contrata. Se incluyen las siguientes actividades: Actividades de servicios forestales, Actividades de servicios para la extracción de madera."
+                        }
+                    },
+                    "desc": "Esta división comprende la realización de parte de las actividades de explotación forestal a cambio de una retribución o por contrata. "
+                },
+                "03 - Pesca y acuicultura": {
+                    "Grupos": {
+                        "031 - Pesca y acuicultura": {
+                            "Clases": {
+                                "0311": "Pesca marítima",
+                                "0312": "Pesca de agua dulce"
+                            },
+                            "desc": "Este grupo comprende la pesca propiamente dicha, es decir, las actividades de captura, extracción y recolección de organismos acuáticos (principalmente peces, crustáceos y moluscos), incluidas plantas, para el consumo humano, en aguas oceánicas, costeras e interiores, manualmente o, más a menudo, con diversos tipos de artes de pesca, como redes, sedales y nasas."
+                        },
+                        "032 - Acuicultura": {
+                            "Clases": {
+                                "0321": "Acuicultura marina",
+                                "0322": "Acuicultura de agua dulce"
+                            },
+                            "desc": "Este grupo comprende la acuicultura, es decir, el proceso de producción consistente en la cría o el cultivo (incluida la recolección) de organismos acuáticos (peces, moluscos, crustáceos, plantas, cocodrilos, caimanes y anfibios) utilizando técnicas destinadas a incrementar la producción de los organismos en cuestión por encima de la capacidad natural del entorno"
+                        }
+                    },
+                    "desc": "Esta división comprende la pesca propiamente dicha y la acuicultura, que abarca la utilización de los recursos pesqueros marinos, de agua salobre y de agua dulce, con la finalidad de capturar o recolectar peces, crustáceos, moluscos y otros organismos y productos marinos (plantas acuáticas, perlas, esponjas, etcétera)."
+                }
+            },
+            "desc": "Esta sección comprende la explotación de recursos naturales vegetales y animales; es decir, las actividades de cultivo, la cría y reproducción de animales, la explotación maderera y la recolección de otras plantas, de animales o de productos animales en explotaciones agropecuarias o en sus hábitat naturales."
+        }
+    }
+}

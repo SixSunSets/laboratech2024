@@ -1,0 +1,60 @@
+{
+    "Reglamento": {
+        "Nombre": "Reglamento (UE) 2023/1115",
+        "Fecha": "31 de mayo de 2023",
+        "Objetivo": "Regular la comercialización en el mercado de la Unión Europea y la exportación de materias primas y productos asociados a la deforestación y degradación forestal.",
+        "Sustituye_a": "Reglamento (UE) n.º 995/2010",
+        "Motivaciones": {
+            "Importancia_de_los_bosques": [
+                "Son esenciales para la biodiversidad, regulación climática, calidad del agua y sustento de comunidades locales e indígenas.",
+                "Contribuyen a mitigar el cambio climático y a conservar la biodiversidad."
+            ],
+            "Problemas": [
+                "Deforestación y degradación forestal aumentan las emisiones de gases de efecto invernadero.",
+                "Impacto significativo en la biodiversidad global y comunidades vulnerables."
+            ]
+        },
+        "Impacto_UE": {
+            "Participación": "La UE es responsable de una proporción significativa de la deforestación global debido al consumo de productos como soja, aceite de palma, cacao, café, madera y carne de res."
+        },
+        "Objetivos": [
+            "Garantizar que los productos comercializados o exportados en la UE estén libres de deforestación.",
+            "Cumplir con las leyes locales del país de origen.",
+            "Proteger los derechos de comunidades locales e indígenas.",
+            "Fomentar cadenas de suministro sostenibles."
+        ],
+        "Obligaciones": {
+            "Operadores_y_Comerciantes": [
+                "Implementar sistemas de diligencia debida.",
+                "Proporcionar información detallada sobre el origen de los productos (incluyendo coordenadas de geolocalización).",
+                "Evaluar y mitigar riesgos relacionados con la deforestación.",
+                "Garantizar conformidad con normativas ambientales y de derechos humanos."
+            ]
+        },
+        "Sistema_de_Evaluación_de_Riesgos": {
+            "Clasificación": [
+                "Países o regiones clasificados como bajo, estándar o alto riesgo de deforestación."
+            ],
+            "Procedimientos": [
+                "Simplificados para productos de países de bajo riesgo.",
+                "Controles estrictos para productos de países de alto riesgo."
+            ]
+        },
+        "Mecanismos_de_Control_y_Sanciones": {
+            "Medidas": [
+                "Creación de un sistema de información centralizado.",
+                "Supervisión de cadenas de suministro.",
+                "Controles regulares por autoridades competentes y aduaneras.",
+                "Sanciones proporcionales y disuasorias para infracciones."
+            ]
+        },
+        "Cooperación_Internacional": [
+            "Promoción de acuerdos y asociaciones con países productores.",
+            "Fomentar el comercio de productos libres de deforestación."
+        ],
+        "Plazo_de_Aplicación": {
+            "Fecha_Límite": "31 de diciembre de 2020",
+            "Propósito": "Prevenir actividades de deforestación antes de la entrada en vigor del reglamento."
+        }
+    }
+}
