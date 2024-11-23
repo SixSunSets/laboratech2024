@@ -1,8 +1,0 @@
-.venv/
-data.xlsx
-metadata.xlsx
-metadata.docx
-*.parquet
-garbage/
-keys.json
-# response.json
